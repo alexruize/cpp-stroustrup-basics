@@ -5,6 +5,7 @@
             "label": "C/C++: g++ build active file",
             "command": "/usr/bin/g++",
             "args": [
+                "-Wall", // shows "all" (a lot more but not ALL) warnings 
                 "-fdiagnostics-color=always",
                 "-g",
                 "${file}",
