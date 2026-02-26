@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/monorhesus/Documents/cpp-learn/helloworld/build",
-  "command": "/usr/bin/c++   -g -o CMakeFiles/helloworld.dir/helloworld.cpp.o -c /home/monorhesus/Documents/cpp-learn/helloworld/helloworld.cpp",
-  "file": "/home/monorhesus/Documents/cpp-learn/helloworld/helloworld.cpp",
-  "output": "CMakeFiles/helloworld.dir/helloworld.cpp.o"
-}
-]
