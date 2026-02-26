@@ -1,3 +1,4 @@
+// From https://cplusplus.com/reference/ctime/clock/?kw=clock
 /* clock example: frequency of primes */
 #include <stdio.h>      /* printf */
 #include <time.h>       /* clock_t, clock, CLOCKS_PER_SEC */
