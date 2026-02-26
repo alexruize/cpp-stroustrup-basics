@@ -1,3 +1,4 @@
+// Taken from medium.com (TODO exact URL)
 #include <iostream>
 #include <string>
 #include <vector>
@@ -34,18 +35,11 @@ int main(){
         std::cout << v[i] << std::endl;
     }
 
+    // Using iterables (modern way)
     std::cout << "Iterating with range-based for loop: " << std::endl;
     for (std::string s : v) {
         std::cout << s << std::endl; 
     }
-
-    // std::cout << "Iterating using a map: " << std::endl;
-    // std::map<int, std::string> m = {
-    
-
-    //     std::views::enumerate 
-    // } 
-
 
     return 0;
 }
