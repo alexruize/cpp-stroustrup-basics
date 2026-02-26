@@ -4,6 +4,6 @@ A collection of code snippets (ranging from trivial to informative) to exemplify
 
 The core insights for each snippet are provided as comments where available.
 
-These _are not_ snippets intended to show either the book'sdrills or the chapter exercises --other sources for this exist abundantly elsewhere in the web. These _are_ snippets intended to distill and illustrate core concepts of the book as I explore them. 
+These _are not_ snippets intended to show either the book's drills or the chapter exercises --other sources for this exist abundantly elsewhere in the web. These _are_ snippets intended to distill and illustrate core concepts of the book as I explore them. 
 
 Any errors (expected) are of course mine. 
