@@ -3,7 +3,8 @@
 
 
 float areaCircle(float r){
-    return M_PI * std::pow(r, 2.0); // M_PI does not require std:: because it is a macro.
+    return M_PI * std::pow(r, 2.0); /*M_PI does not require std:: because it is a C macro 
+    and there are no namespaces in C (macros historically precede C++).*/ 
 }
 
 int main(){
